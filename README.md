@@ -3,7 +3,7 @@
 **From Zero to Building Real-World Applications**
 
 ---
-
+ 
 ## Who Is This Guide For?
 
 This guide is designed for college students, aspiring developers, and anyone who wants to understand Generative AI from the ground up and build real projects. No prior AI experience is required — just basic Python knowledge.
